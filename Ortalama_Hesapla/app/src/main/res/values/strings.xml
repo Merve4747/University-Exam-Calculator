@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ortalama_Hesapla</string>
+    <string name="Vize">Vize Notunuzu Giriniz</string>
+    <string name="Final">Final Notunuzu Giriniz</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="sonucText">Sonuç</string>
+</resources>
